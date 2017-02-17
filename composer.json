@@ -1,0 +1,17 @@
+{
+    "name": "SerjRamone/planfix-api-client",
+    "type": "library",
+    "version": "1.0.0",
+    "description": "API client library for the Planfix.ru",
+    "keywords": ["planfix", "api"],
+    "homepage": "https://github.com/SerjRamone/planfix-api-client",
+    "license": "GPL-3.0",
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Planfix": "/"
+        }
+    }
+}
